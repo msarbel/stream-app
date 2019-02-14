@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "here is a stream",
+      "id": 2
+    },
+    {
+      "title": "Patched Title",
+      "description": "this stream was created by me",
+      "userId": "103433249829633664692",
+      "id": 3
+    },
+    {
+      "title": "New title for stream",
+      "description": "Oh yeah baby",
+      "id": 4
+    },
+    {
+      "title": "this title has been patched bro",
+      "description": "bro, so cool bro",
+      "userId": "103433249829633664692",
+      "id": 5
+    }
+  ]
+}
