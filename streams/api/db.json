@@ -11,12 +11,6 @@
       "id": 2
     },
     {
-      "title": "Patched Title",
-      "description": "this stream was created by me",
-      "userId": "103433249829633664692",
-      "id": 3
-    },
-    {
       "title": "New title for stream",
       "description": "Oh yeah baby",
       "id": 4
@@ -26,6 +20,18 @@
       "description": "bro, so cool bro",
       "userId": "103433249829633664692",
       "id": 5
+    },
+    {
+      "title": "Boom new stream",
+      "description": "thsi is a new stream yo",
+      "userId": "103433249829633664692",
+      "id": 6
+    },
+    {
+      "title": "Live Stream",
+      "description": "BRO, LIVE STREAM BRO",
+      "userId": "103433249829633664692",
+      "id": 7
     }
   ]
 }
